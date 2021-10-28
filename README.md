@@ -1,4 +1,4 @@
-# Whatsapp-Prediccion
+# Whatsapp-Prediccion using Python
 Logistic regression that predict when they will reply you
 
 Steps:
